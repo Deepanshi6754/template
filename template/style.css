@@ -1,0 +1,55 @@
+* {
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.top-container {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/359/269/original/a-cloudy-blue-sky-vector.jpg");
+    height: 100%;
+    width: 100%;
+    color: #40514e;
+}
+
+h1 {
+    color: hsl(179, 67%, 46%);
+    font-weight: bolder;
+}
+
+h2 {
+    color: hsl(179, 67%, 46%);
+    font-weight: lighter;
+}
+
+.container {
+    display: flex;
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 0 auto;
+    row-gap: 2rem;
+}
+
+b {
+    color: hsl(179, 67%, 46%);
+}
+
+button {
+    background-color: hsl(179, 67%, 46%);
+    color: rgb(248, 248, 248);
+    height: 50px;
+    width: 250px;
+    font-weight: lighter;
+    border-radius: 20px;
+
+}
+
+footer {
+    word-spacing: 10px;
+    font-weight: bolder;
+    height: 400px;
+    width: 100%;
+    background-color: hsl(179, 67%, 46%);
+
+}
